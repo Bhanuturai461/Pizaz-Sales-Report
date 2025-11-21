@@ -75,7 +75,7 @@ Here are the major questions solved using SQL and Power BI:
 9. What are the best- and worst-selling pizzas?
 
 
-****Product Analysis****
+*Product Analysis*
 
 **• Sales by Pizza Category**
 
