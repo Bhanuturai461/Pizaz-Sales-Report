@@ -77,7 +77,7 @@ Here are the major questions solved using SQL and Power BI:
 
 **Product Analysis**
 
-• Sales by Pizza Category
+**• Sales by Pizza Category**
 
 Using SQL queries on category revenue and quantity:
 
