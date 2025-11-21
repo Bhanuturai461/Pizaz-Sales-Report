@@ -124,3 +124,59 @@ Monthly trends show peaks in July and January.
 <img width="565" height="320" alt="Pizza_Sales_Report" src="https://github.com/user-attachments/assets/86b2c722-44dc-44fe-b40b-69915a0c4380" />
 
 
+**Insights From the Visualization**
+
+**1.Overall Sales Performance:**
+The business generated $817K+ in total revenue for the year.
+Total orders: ~21.3K
+Total pizzas sold: ~49.5K
+Average order value (AOV): $38.31
+Avg pizzas per order: 2.32
+These KPIs indicate healthy sales volume and consistent customer purchasing patterns.
+
+**2.Daily Trend Analysis:**
+Friday and Saturday are the busiest days, each seeing over 3.5K orders.
+Weekends show significantly higher customer engagement compared to weekdays.
+The flow suggests that customers prefer ordering pizzas for weekend celebrations and gatherings.
+
+**3.Monthly Trend Insights**
+July records the highest orders, followed by January and June.
+September and February reflect relatively lower sales.
+This pattern suggests seasonality—holidays, summer activities, and festival periods drive demand.
+
+**4.Sales Distribution by Pizza Category**
+Classic pizzas contribute the largest share of total sales (26.91%), making them the core revenue driver.
+Veggie, Chicken, and Supreme categories each contribute around 23–25%, showing balanced customer preferences.
+The Classic category should be prioritized in marketing, stock management, and promotions.
+
+**5.Sales Distribution by Pizza Size**
+Large (L) pizzas dominate sales at 45.89%, showing strong customer preference for larger portions.
+Medium (M) sizes contribute 30%+, maintaining steady demand.
+Small, X-Large, and XX-Large sizes contribute minimal revenue, indicating these may be niche or low-demand offerings.
+
+**6.Category-Wise Quantity Sold**
+Classic category leads in total pizzas sold (~14,888 units).
+Supreme (11,987), Veggie (11,649), and Chicken (11,050) follow closely.
+Demand across categories is fairly balanced, but Classics clearly outperform.
+
+**7.Best/Worst Sellers (From Visualization Summary)**
+Top sellers (by revenue, quantity, and orders) are mainly from Classic and Supreme categories.
+Pizzas with complex toppings or premium pricing perform well.
+Certain niche pizzas consistently appear in bottom performers, suggesting:
+Limited customer interest
+Potential overstock risk
+Opportunities to optimize menu offerings
+
+**8.Customer Buying Behavior**
+Customers tend to purchase larger-sized pizzas, often buying 2+ pizzas per order.
+Strong weekend spikes show shared meals and group orders.
+AOV and total revenue indicate a healthy spending pattern among customers.
+
+**9.Business Recommendations Based on Visualization**
+Increase promotional campaigns around weekends to capitalize on surge demand.
+Promote Large Classic pizzas—your strongest revenue drivers.
+Monitor and optimize slow-moving pizza types to reduce waste.
+Consider bundled offers combining Medium + Large pizzas to increase weekday sales.
+Launch seasonal promotions during low-performing months like September and February.
+
+
