@@ -73,3 +73,47 @@ Here are the major questions solved using SQL and Power BI:
 7. Which pizza category contributes the most to revenue?
 8. Which pizza size generates maximum sales?
 9. What are the best- and worst-selling pizzas?
+
+
+**Product Analysis**
+
+• Sales by Pizza Category
+
+Using SQL queries on category revenue and quantity:
+
+Classic category leads in both revenue & number of orders.
+
+Veggie and Supreme categories follow next.
+(Reference: Category Revenue Query) 
+
+Pizza_Sales_Sql_Queries
+
+• Sales by Pizza Size
+
+Large (L) pizzas contribute the highest revenue share.
+
+Medium (M) and Regular (S) sizes follow.
+
+XX-Large contributes the least due to limited demand.
+
+• Best-Selling Products
+
+Based on top 5 queries:
+
+Certain Classic pizzas dominate revenue and orders.
+
+High-performing pizzas are consistent across quantity & revenue metrics.
+
+• Least-Performing Products
+
+From bottom 5 queries:
+
+A few niche pizzas (specialized flavors) have low demand.
+
+Smaller business opportunity in these items.
+
+• Ordering Behavior
+
+Weekends (Friday, Saturday) show the highest order volume.
+
+Monthly trends show peaks in July and January.
