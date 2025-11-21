@@ -120,6 +120,7 @@ Monthly trends show peaks in July and January.
 
 
 **Deliverables**
+
 <img width="565" height="320" alt="Pizza_Sales_Report" src="https://github.com/user-attachments/assets/86b2c722-44dc-44fe-b40b-69915a0c4380" />
 
 
