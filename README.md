@@ -7,14 +7,16 @@ The analysis was performed using SQL for data exploration and Power BI for inter
 
 The goal of the project is to provide a data-driven understanding of sales performance, identify improvement opportunities, and support business decision-making.
 
+
 **Dataset Description**
 
 The dataset represents transactional-level pizza sales data. Each row corresponds to an item sold in an order and includes details such as:
 
-Order information (Order ID, Order Date, Time)
-Product details (Pizza Name, Category, Size)
-Sales metrics (Quantity, Total Price)
-Source: Pizza Sales Dataset (CSV)
+•Order information (Order ID, Order Date, Time)
+•Product details (Pizza Name, Category, Size)
+•Sales metrics (Quantity, Total Price)
+•Source: Pizza Sales Dataset (CSV)
+
 
 **Key Attributes Include**
 
@@ -31,32 +33,35 @@ Source: Pizza Sales Dataset (CSV)
 
 
 **Business Objectives**
+
 The main business objectives of this analysis are:
 
-1️⃣ Understand Overall Sales Performance
+•Understand Overall Sales Performance
 Track revenue, total orders, and pizzas sold.
 Calculate average order value and average pizzas per order.
 
-2️⃣ Identify Trends Over Time
+•Identify Trends Over Time
 Daily and monthly patterns in ordering behavior.
 Identify peak and low sale periods.
 
-3️⃣ Analyze Category & Size Performance
+•Analyze Category & Size Performance
 Which pizza category contributes the most?
 Which size generates maximum sales?
 
-4️⃣ Evaluate Product-Level Insights
+•Evaluate Product-Level Insights
 Identify top & bottom pizzas by:
 Revenue
 Quantity
 Number of orders
 
-5️⃣ Support Business Decisions
+•Support Business Decisions
 Improve marketing strategies
 Optimize inventory
 Identify best-selling categories and pizza types
 
+
 **Key Business Questions Answered**
+
 Here are the major questions solved using SQL and Power BI:
 
 1. What is the total revenue generated?
