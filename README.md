@@ -16,6 +16,8 @@ Product details (Pizza Name, Category, Size)
 Sales metrics (Quantity, Total Price)
 Source: Pizza Sales Dataset (CSV)
 
+**Key Attributes Include**
+
 | Column Name        | Description                                  |
 | ------------------ | -------------------------------------------- |
 | **order_id**       | Unique identifier for each order             |
@@ -27,3 +29,42 @@ Source: Pizza Sales Dataset (CSV)
 | **quantity**       | Number of units sold                         |
 | **total_price**    | Total price for the line item                |
 
+
+**Business Objectives**
+The main business objectives of this analysis are:
+
+1️⃣ Understand Overall Sales Performance
+Track revenue, total orders, and pizzas sold.
+Calculate average order value and average pizzas per order.
+
+2️⃣ Identify Trends Over Time
+Daily and monthly patterns in ordering behavior.
+Identify peak and low sale periods.
+
+3️⃣ Analyze Category & Size Performance
+Which pizza category contributes the most?
+Which size generates maximum sales?
+
+4️⃣ Evaluate Product-Level Insights
+Identify top & bottom pizzas by:
+Revenue
+Quantity
+Number of orders
+
+5️⃣ Support Business Decisions
+Improve marketing strategies
+Optimize inventory
+Identify best-selling categories and pizza types
+
+**Key Business Questions Answered**
+Here are the major questions solved using SQL and Power BI:
+
+1. What is the total revenue generated?
+2. What is the average order value?
+3. How many total pizzas were sold?
+4. What are the total number of orders?
+5. How many pizzas are ordered per order on average?
+6. What are the daily and monthly ordering trends?
+7. Which pizza category contributes the most to revenue?
+8. Which pizza size generates maximum sales?
+9. What are the best- and worst-selling pizzas?
