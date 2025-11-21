@@ -75,7 +75,7 @@ Here are the major questions solved using SQL and Power BI:
 9. What are the best- and worst-selling pizzas?
 
 
-*Product Analysis*
+***Product Analysis***
 
 **• Sales by Pizza Category**
 
@@ -88,7 +88,7 @@ Veggie and Supreme categories follow next.
 
 Pizza_Sales_Sql_Queries
 
-• Sales by Pizza Size
+**• Sales by Pizza Size**
 
 Large (L) pizzas contribute the highest revenue share.
 
@@ -96,7 +96,7 @@ Medium (M) and Regular (S) sizes follow.
 
 XX-Large contributes the least due to limited demand.
 
-• Best-Selling Products
+**• Best-Selling Products**
 
 Based on top 5 queries:
 
@@ -104,7 +104,7 @@ Certain Classic pizzas dominate revenue and orders.
 
 High-performing pizzas are consistent across quantity & revenue metrics.
 
-• Least-Performing Products
+**• Least-Performing Products**
 
 From bottom 5 queries:
 
@@ -112,7 +112,7 @@ A few niche pizzas (specialized flavors) have low demand.
 
 Smaller business opportunity in these items.
 
-• Ordering Behavior
+**• Ordering Behavior**
 
 Weekends (Friday, Saturday) show the highest order volume.
 
